@@ -1,0 +1,9 @@
+"*":
+  "atom-beautify":
+    php:
+      cs_fixer_config_file: "C:\\AtomBeautify\\php_cs.dist"
+      cs_fixer_path: "C:\\AtomBeautify\\php-cs-fixer-v2.phar"
+      level: "Symfony"
+      phpcbf_path: "C:\\AtomBeautify\\PHP_Beautifier-0.1.15\\scripts\\php_beautifier.bat"
+      rules: "phpdoc_indent,@PSR2"
+      standard: "PSR2"
